@@ -9,10 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/react": "^3.0.19",
+    "@tanstack/react-query": "^5.90.16",
+    "ai": "^6.0.19",
     "effect": "^3.12.0",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
+    "surrealdb": "^1.3.2",
     "zustand": "^5.0.0"
   },
   "devDependencies": {

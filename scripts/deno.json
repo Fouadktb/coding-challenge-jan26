@@ -1,0 +1,6 @@
+{
+  "nodeModulesDir": "auto",
+  "imports": {
+    "surrealdb": "npm:surrealdb@1.3.2"
+  }
+}

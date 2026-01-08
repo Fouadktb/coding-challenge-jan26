@@ -38,6 +38,7 @@ export interface FruitPreferences {
 }
 
 export interface Fruit {
+  id?: string; // SurrealDB record ID (e.g., "fruits:abc123")
   type: FruitType;
   attributes: FruitAttributes;
   preferences: FruitPreferences;
